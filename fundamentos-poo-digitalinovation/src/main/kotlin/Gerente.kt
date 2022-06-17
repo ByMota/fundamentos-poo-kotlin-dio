@@ -1,5 +1,3 @@
-package testes
-
 import Funcinario
 
 class Gerente(
